@@ -2,10 +2,10 @@
   "name": "expressalab",
   "version": "1.0.0",
   "main": "index.js",
-  "type":"module",
-
+  "type": "module",
   "scripts": {
-    "devStart": "nodemon server.js"
+    "devStart": "nodemon server.js",
+     "dev": "nodemon server.js"
   },
   "keywords": [],
   "author": "",
